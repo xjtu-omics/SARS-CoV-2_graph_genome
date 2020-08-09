@@ -2,10 +2,11 @@
 
 ## sequence, mutation calling and analysis scripts 
 
-``
+`gisaid_cov2020_sequences_0407.zip` all sequences used
 
 `align_mutation_calling.sh` is the shell script use to alignment and calling mutations for each SARS-CoV-2 sequences
 
+`mutation_analysis.R` the Rscript to analysis the mutations
 
 `the_mutations_with_annotation.vcf` is the mutations with annotation of the SARS-CoV-2 sequences
 
